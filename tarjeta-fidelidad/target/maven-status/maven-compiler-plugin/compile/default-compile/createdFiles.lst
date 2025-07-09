@@ -1,0 +1,8 @@
+cl/usm/fidelidad/repository/CompraRepository.class
+cl/usm/fidelidad/repository/ClienteRepository.class
+cl/usm/fidelidad/model/Cliente.class
+cl/usm/fidelidad/App.class
+cl/usm/fidelidad/service/FidelidadService.class
+cl/usm/fidelidad/model/Compra.class
+cl/usm/fidelidad/ui/CLI.class
+cl/usm/fidelidad/model/Nivel.class
